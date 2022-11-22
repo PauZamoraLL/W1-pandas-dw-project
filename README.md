@@ -14,4 +14,3 @@ The data set was extracted from Global Shark Attack File. It consists of current
 
 Data source: https://www.kaggle.com/datasets/teajay/global-shark-attacks?resource=download
 
-   ![Shark](https://thumbs.gfycat.com/ViciousBowedGoa.webp)
